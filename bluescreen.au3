@@ -4,7 +4,6 @@ Version: 0.2.6
  Author:      Microsoft ©. Alle Rechte vorbehalten.
 
  Script Function:
-Microsoft-Security.com
 
 #ce ----------------------------------------------------------------------------
 
